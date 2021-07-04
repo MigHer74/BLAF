@@ -6,4 +6,13 @@ According to what is written in the previous paragraph; the file is bigger and b
 
 I'm going to use HTML, CSS, JS, PHP or Python and MySQL or MS SQL Server in this system.
 
-For me, this is an ambitious project because is goint to be the first project afeter I complete my Web Developer traning program.
+For me, this is an **ambitious project** because is goint to be the first project after I complete my Web Developer traning program.
+
+
+## Project Files
+- readme.md
+- index.html
+- css\styles.css
+
+
+> **If you think education is expensive, try ignorance. - Derek Bok**
