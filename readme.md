@@ -12,7 +12,12 @@ For me, this is an **ambitious project** because is goint to be the first projec
 ## Project Files
 - readme.md
 - index.html
-- css\styles.css  
+- html/lcs.html
+- css/styles.css
+
+## Project Directories
+- html | Folder containing the project's html documents.
+- css  | Folder containing the project's css documents.
   
   
 > **If you think education is expensive, try ignorance. - Derek Bok**
