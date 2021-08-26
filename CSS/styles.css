@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url(../fonts/IBMPlexSans/IBMPlexSans-Regular.ttf);
+}
+
 body {
   background-color: #004FEF;
   color: #FFFFFF;
@@ -12,6 +17,10 @@ header {
   position: fixed;
   top: 0px;
   left: 0px;
+}
+
+header> h1{
+  font-weight: bolder;
 }
 
 #main-menu {
