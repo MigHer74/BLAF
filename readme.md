@@ -14,10 +14,12 @@ For me, this is an **ambitious project** because is goint to be the first projec
 - index.html
 - html/lcs.html
 - css/styles.css
+- fonts/ibmplexsans.ttf (several files)
 
 ## Project Directories
-- html | Folder containing the project's html documents.
-- css  | Folder containing the project's css documents.
+- html  | Folder containing the project's html documents.
+- css   | Folder containing the project's css documents.
+- fonts | Folder containing the project's fonts.
   
   
 > **If you think education is expensive, try ignorance. - Derek Bok**
